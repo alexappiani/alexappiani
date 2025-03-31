@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on Microsoft 365 Identity, Security, Collaboration
 - 🌱 I’m always learning...
 - 👯 ...and I like teaching!
-- 📫 Find me on Linkedin, or at a Microsoft event in Italy :)
+- :ninja: PowerShell addicted
+- 📫 Find me on Linkedin, or at a Microsoft event in Italy 😎
 <!--
 **alexappiani/alexappiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
